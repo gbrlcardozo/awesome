@@ -2,8 +2,8 @@
 Awesome links for you &amp; me.
 
 ## Contents
-[Editors](#editors)
-[Game Development](#game-development)
+* [Editors](#editors)
+* [Game Development](#game-development)
 
 ## Editors
 
